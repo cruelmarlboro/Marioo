@@ -1,4 +1,5 @@
-<stye>
+
+<style>
   div{
   color: black;
   background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
