@@ -1,6 +1,6 @@
 
 <style>
-  div{
+  div {
   color: black;
   background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
   border-color: black;
